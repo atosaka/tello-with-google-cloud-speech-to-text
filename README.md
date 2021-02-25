@@ -24,7 +24,7 @@ Tello との接続では WiFi が必須です
 ```
 $ npm install
 ```
-2. Google Cloud Plathome で Speech-To-Text を使用したプロジェクトを作成して、
+2. Google Cloud Platform で Speech-To-Text を使用したプロジェクトを作成して、
 クレデンシャル用の JSON ファイルをダウンロードする
 3. ファイル「.env-sample」を参考にして、ファイル「.env」を作成し、  
 環境変数 GOOGLE_APPLICATION_CREDENTIALS へダウンロードした JSON ファイルを指定する
